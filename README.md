@@ -5,3 +5,6 @@ This code supports win32 and windows 10 UWP.
 
 [Requirements] 1. Visual Studio 2015 
 
+this code was written by megayuchi
+  http://megayuchi.wordpress.com
+
