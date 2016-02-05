@@ -1,0 +1,7 @@
+*.sdf
+*.suo
+*.sln
+*.lib
+*.exe
+*.ipdb
+*.iobj
